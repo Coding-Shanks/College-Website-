@@ -17,7 +17,7 @@ This is a web-based College Portal where users can:
 ## Installation
 ### 1. Clone the Repository
 ```sh
- git clone https://github.com/your-repo/college-portal.git
+ git clone https://github.com/Coding-Shanks/College-Website-/CollegeExamPapersWebsite.git
  cd college-portal
 ```
 
