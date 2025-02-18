@@ -28,7 +28,7 @@ This is a web-based College Portal where users can:
 CREATE DATABASE college_portal;
 USE college_portal;
 
--- Users table
+-- Users table  adimin is username and admin123 is password
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
